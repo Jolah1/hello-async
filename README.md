@@ -10,3 +10,21 @@ This project showcases:
 
 ---
 
+### 🚀 Getting Started
+
+Clone the repo:
+
+```bash
+git clone https://github.com/yourusername/hello-async.git
+cd hello-async
+```
+
+Run the project with two URLs:
+
+```bash
+cargo run -- https://example.com https://httpbin.org/html
+```
+
+🙌 Contributions
+Feel free to fork this repo and submit PRs. Ideas welcome!
+
